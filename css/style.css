@@ -48,6 +48,24 @@
   background: #0CA579;
 }
 
+.button-small{
+   width: Hug (64px);
+   height: Hug (20px);
+   padding: 10px 40px 10px 40px;
+   border-radius: 8px;
+   gap: 10px;
+   background: #0CA579;
+}
+
+.button-small:hover{
+   width: Hug (64px);
+   height: Hug (20px);
+   padding: 10px 40px 10px 40px;
+   border-radius: 8px;
+   gap: 10px;
+   background: #077455;
+ }
+
 @media only screen and (min-width: 1200px) {
   .image-anjing{
    margin-top: 70px;
