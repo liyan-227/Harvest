@@ -57,6 +57,9 @@
    background: #0CA579;
 }
 
+a:hover{
+   color: #077455;
+}
 .button-small:hover{
    width: Hug (64px);
    height: Hug (20px);
