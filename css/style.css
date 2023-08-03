@@ -3,6 +3,10 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+
+.bg-grey{
+   background: #F9F9F9;
+}
  .logo{
     width: 120px; 
     height: 60px;
@@ -57,6 +61,15 @@
    background: #0CA579;
 }
 
+.button-order{
+   width: 302px;
+   height: 44px;
+   padding: 12px 40px 12px 40px;
+   border-radius: 8px;
+   gap: 12px;
+   background: #0CA579;
+}
+
 a:hover{
    color: #077455;
 }
@@ -69,8 +82,21 @@ a:hover{
    background: #077455;
  }
 
+ .button-order:hover{
+   width: Fill (302px);
+   height: Hug (44px);
+   padding: 12px 40px 12px 40px;
+   border-radius: 8px;
+   gap: 12px;
+   background: #0CA579;
+}
+
 @media only screen and (min-width: 1200px) {
   .image-anjing{
    margin-top: 70px;
   }
+ }
+
+ .box-shadow{
+   box-shadow: 0px 4px 14px 0px #00000026;
  }
